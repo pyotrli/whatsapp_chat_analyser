@@ -7,7 +7,8 @@ analyse whatsapp chats between 2 or more people to produce the following info:
 - number of words used / time / person
 - number of emojis used / time / person
 
-the project contains two python 3 scripts the output multiple .csv files that you can then visualise using own tools
+the project contains two python 3 scripts that output multiple .csv files 
+you can then visualise this data using your preferred tools (excel / google sheets / google data studio etc)
 
 # Prerequisites
 python 3
@@ -29,9 +30,9 @@ run whatsapp_message_analyser.py script and it will produce one .csv file with s
 - emoji count
 - date and time
 
-run whatsapp_top10_words_and_emojis.py script and it will produce one .csv file person to include:
-- top 10 emojis by frequency
-- top 10 words by frequency
+run whatsapp_top10_words_and_emojis.py script and it will produce one .csv file per person to include:
+- top 10 emojis by useage frequency
+- top 10 words by useage frequency
 
 
 # notes
