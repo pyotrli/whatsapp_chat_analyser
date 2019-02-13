@@ -18,8 +18,8 @@ a whatsappchat.txt file that you can export from your phone
 # Exporting whatsapp chats
 please make sure to export without media
 
-Android: https://faq.whatsapp.com/en/android/23756533/
-iOS: https://faq.whatsapp.com/en/iphone/20888066
+- Android: https://faq.whatsapp.com/en/android/23756533
+- iOS: https://faq.whatsapp.com/en/iphone/20888066
 
 # Installing
 put the exported whatsapp chat file in the same folder as the scripts
