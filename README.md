@@ -1,11 +1,11 @@
 # whatsapp_chat_analyser - python scripts
 analyse whatsapp chats between 2 or more people to produce the following info: 
 
-top 10 words / person
-top 10 emojis / person
-message number / time / person
-number of words used / time / person
-number of emojis used / time / person
+- top 10 words / person
+- top 10 emojis / person
+- message number / time / person
+- number of words used / time / person
+- number of emojis used / time / person
 
 the project contains two python 3 scripts the output multiple .csv files that you can then visualise using own tools
 
