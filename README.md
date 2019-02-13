@@ -1,4 +1,4 @@
-# whatsapp_chat_analyser
+# whatsapp_chat_analyser - python scripts
 analyse whatsapp chats between 2 or more people to produce the following info: 
 
 top 10 words / person
