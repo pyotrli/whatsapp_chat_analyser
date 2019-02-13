@@ -11,8 +11,8 @@ the project contains two python 3 scripts that output multiple .csv files
 you can then visualise this data using your preferred tools (excel / google sheets / google data studio etc)
 
 # Prerequisites
-python 3
-a whatsappchat.txt file that you can export from your phone
+- python 3
+- a whatsappchat.txt file that you can export from your phone
 
 
 # Exporting whatsapp chats
@@ -22,8 +22,8 @@ please make sure to export without media
 - iOS: https://faq.whatsapp.com/en/iphone/20888066
 
 # Installing
-put the exported whatsapp chat file in the same folder as the scripts
-unzip the file chat file and name it chat.txt
+- put the exported whatsapp chat file in the same folder as the scripts
+- unzip the file chat file and name it "chat.txt"
 
 run whatsapp_message_analyser.py script and it will produce one .csv file with stats per message:
 - word count
